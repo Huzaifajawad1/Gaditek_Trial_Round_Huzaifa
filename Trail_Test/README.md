@@ -19,7 +19,8 @@ This project is a basic Q/A bot that answers questions using Retrieval-Augmented
     uvicorn app.main:app --reload
     ```
 4. Enter query on this url: 
-    ```"http://127.0.0.1:8000/docs#/default/get_answer_query_post"
+    ```
+    "http://127.0.0.1:8000/docs#/default/get_answer_query_post"
     ```
 
 ## Knowledge Base Format
