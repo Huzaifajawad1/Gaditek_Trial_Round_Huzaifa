@@ -1,0 +1,14 @@
+fastapi==0.111.0
+fastapi-cli==0.0.4
+flask==3.0.3
+grpcio==1.64.1
+huggingface-hub==0.23.4
+httpx==0.27.0
+langchain==0.2.7
+pinecone-client==4.0.0
+pydantic==2.7.1
+requests==2.32.3
+sqlalchemy==2.0.31
+starlette==0.37.2
+transformers==4.42.3
+uvicorn==0.30.1
